@@ -1,0 +1,89 @@
+👤 Me:
+A python3 develpoer for automation.
+A New DevOps engineer.
+A Linux Admin.
+A Linux Based builder.
+A Linux Problems Hunter.
+
+
+
+🧠 what to know about me:
+I am new.
+i can do.
+I takes longer time cause I am not a pro.
+
+
+🛠️ what I can do:
+python3 {
+    selenium:basics to automate with differend web drivers,
+    pyautogui:to make auto bots,
+    keyboard:to send keystrokes,
+    automation:scripting,
+}
+
+jenkins {
+    ci/cd pipelines,
+}
+
+aws {
+    ec2,
+    ec2 auto setup with ansible,
+    elastic ips,
+    scaling,
+    monitoring,
+}
+
+k8s (kubernetes) {
+    cluster creation,
+    loadBalancer settings,
+    ci/cd with jenkins,
+    pull custom images,
+}
+
+ansible {
+    with creds,
+    with inventory ini or yaml both,
+    delayed,
+    ci/cd with jenkins,managements
+
+git {
+    all managements,
+    ci/cd with jenkins,
+}
+
+docker {
+    building,
+    editing,
+    pushing,
+    pulling,
+}
+
+shell scripting {
+    only automations or making installation scripts
+}managements
+
+sonarQube {
+    server creation and ci/cd with jenkins
+    setting quality gates
+    setting values of gate to pass the test
+}
+
+serving {
+    apache2,
+    httpd,
+    python3 Flask,
+    python3 SimpleHttpServer or http.server,
+    nginx,
+}
+
+virtual machines {
+    I can set all your workspace in virtualbox
+    backup
+    restore
+    securing
+    any os installations
+    physical to virtual
+    virtual to physical
+    qemu or virtualbox
+}
+
