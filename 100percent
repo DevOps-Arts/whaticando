@@ -74,6 +74,7 @@ serving {
     python3 Flask,
     python3 SimpleHttpServer or http.server,
     nginx,
+    any,
 }
 
 virtual machines {
