@@ -22,7 +22,7 @@ python3 {
 }
 
 jenkins {
-    ci/cd pipelines,
+    ci/cd pipelines to automate everything,
 }
 
 aws {
